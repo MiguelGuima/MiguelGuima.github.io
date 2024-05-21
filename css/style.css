@@ -10,6 +10,10 @@
   /* You can change the background color by typing the color code. (If you do not enter a background-image image, the background-color will be active.) */
   --background_color: #000;
   --background_image: url("../img/wallpaper.webp");
+  --background-size: cover; /* Ensures the image covers the entire screen */
+  --background-position: center; /* Centers the image */
+  --background-repeat: no-repeat; /* Prevents the image from repeating */
+  --background-attachment: fixed; /* Ensures the background image stays fixed */
 
   /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
   --image_border_color: #000;
