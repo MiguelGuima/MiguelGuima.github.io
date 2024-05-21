@@ -14,6 +14,8 @@
   --background-position: center; /* Centers the image */
   --background-repeat: no-repeat; /* Prevents the image from repeating */
   --background-attachment: fixed; /* Ensures the background image stays fixed */
+  --background-width: 100%;
+  --background-height: 100%;
 
   /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
   --image_border_color: #000;
